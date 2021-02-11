@@ -44,7 +44,7 @@ SRCS= icons/about.svg				\
 
 RESOLUTIONS=320x240 640x480
 
-OBJS := $(foreach res,$(RESOLUTIONS),$(foreach each,$(basename $(SRCS) .svg),pngs/$(res)/$(each).png))
+OBJS := $(foreach res,$(RESOLUTIONS),$(foreach each,$(SRCS),pngs/$(res)/$(each:.svg=.png)))
 
 .PHONY: all clean
 
@@ -53,19 +53,10 @@ all: $(OBJS)
 clean:
 	rm -rf pngs
 
-pngs/320x240/imgs/selection.png: SIZE=-w 76 -h 50
-pngs/320x240/imgs/section-l.png pngs/320x240/imgs/section-r.png: SIZE=-w 50 -h 46
-pngs/320x240/imgs/%.png: SIZE=-w 16 -h 16
-pngs/320x240/%.png: SIZE=-w 32 -h 32
-pngs/640x480/imgs/selection.png: SIZE=-w 152 -h 100
-pngs/640x480/imgs/%.png: SIZE=-w 32 -h 32
-pngs/640x480/%.png: SIZE=-w 64 -h 64
-pngs/640x480/imgs/section-l.png pngs/640x480/imgs/section-r.png: SIZE=-w 100 -h 92
-
 pngs/320x240/%.png: %.svg
 	@mkdir -p $(@D)
-	inkscape --export-type=png $(SIZE) $< -o $@ 2>/dev/null
+	inkscape --export-type=png --export-dpi=96 $< -o $@ 2>/dev/null
 
 pngs/640x480/%.png: %.svg
 	@mkdir -p $(@D)
-	inkscape --export-type=png $(SIZE) $< -o $@ 2>/dev/null
+	inkscape --export-type=png --export-dpi=192 $< -o $@ 2>/dev/null
