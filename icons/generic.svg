@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="320"
+   viewBox="0 0 84.666665 84.666669"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="generic.svg"
+   inkscape:export-filename="/home/paul/Images/opendingux/icons/poweroff.png"
+   inkscape:export-xdpi="38.400002"
+   inkscape:export-ydpi="38.400002">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="109.62714"
+     inkscape:cy="158.85121"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:1.52062;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1282"
+       width="84.666664"
+       height="84.666664"
+       x="-2.220446e-16"
+       y="0"
+       rx="16.933334"
+       ry="16.933334" />
+    <rect
+       style="fill:#999999;stroke-width:1.42558;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       id="rect1244"
+       width="79.375"
+       height="79.375"
+       x="2.6458333"
+       y="2.6458333"
+       rx="15.875"
+       ry="15.875" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:1.2355;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1244-3-3"
+       width="68.791664"
+       height="68.791664"
+       x="7.9375"
+       y="7.9375"
+       rx="13.758333"
+       ry="13.758333" />
+    <g
+       aria-label="?"
+       transform="matrix(3.0731522,0,0,2.7678179,-41.014374,-44.426935)"
+       id="text28"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.48px;line-height:1.25;font-family:Harabara;-inkscape-font-specification:Harabara;white-space:pre;shape-inside:url(#rect30);fill:#999999;fill-opacity:1;stroke:none">
+      <path
+         d="m 25.126953,35.908167 q 0,-1.964531 0.297656,-3.036094 0.357188,-1.131094 2.143125,-2.559844 0.892969,-0.714375 1.488281,-1.42875 0.654844,-0.714375 0.654844,-1.785937 0,-2.38125 -2.024062,-2.678906 -1.964531,-0.297656 -2.8575,0.773906 -0.773906,0.833438 -0.833438,2.500312 -1.607343,0 -2.678906,-0.05953 -1.012031,-0.05953 -1.012031,-1.666875 0,-0.892968 0.416719,-1.785937 0.47625,-0.9525 1.190625,-1.607344 1.250156,-1.131094 3.274218,-1.547812 2.024063,-0.416719 3.988594,0.05953 1.964531,0.47625 3.33375,1.905 1.42875,1.42875 1.42875,3.929062 0,1.964531 -0.833438,3.036094 -0.773906,1.071562 -1.726406,1.845469 -0.9525,0.714375 -1.785937,1.488281 -0.773906,0.714375 -0.714375,2.083594 0,0.178593 0,0.297656 0,0.119062 0,0.238125 z m 1.369219,1.845469 h 2.619375 v 4.107656 h -4.107656 v -2.559844 q 0,-1.547812 1.488281,-1.547812 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.48px;font-family:Harabara;-inkscape-font-specification:Harabara;fill:#999999"
+         id="path839" />
+    </g>
+  </g>
+</svg>
