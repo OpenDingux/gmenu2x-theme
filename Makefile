@@ -4,6 +4,7 @@ SRCS= icons/about.svg				\
 	  icons/ebook.svg				\
 	  icons/explorer.svg			\
 	  icons/generic.svg				\
+	  icons/gmu.svg				\
 	  icons/network.svg				\
 	  icons/passwd.svg				\
 	  icons/poweroff.svg			\
